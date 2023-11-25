@@ -24,6 +24,7 @@ If y represents the dependent variable and x the independent variable, this rela
 DEVELOPED BY : SANJAY M
 REGISTER NO : 23013084
 
+
 import numpy as np
 import math
 import matplotlib.pyplot as plt
@@ -56,6 +57,7 @@ plt.plot(x,y1,'r')
 plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
+
 
 
 # Output
