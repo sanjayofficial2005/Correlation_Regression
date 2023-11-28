@@ -20,10 +20,11 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+### correlation regression:
+```python
 
-DEVELOPED BY : SANJAY M
-REGISTER NO : 23013084
-
+DEVELOPED BY:SANJAY.M
+REGISTER NO :23013084
 
 import numpy as np
 import math
@@ -57,11 +58,15 @@ plt.plot(x,y1,'r')
 plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
+```
+
 
 
 
 # Output
-![Screenshot from 2023-11-18 18-24-03](https://github.com/sanjayofficial2005/Correlation_Regression/assets/148048602/910cf329-577e-4b9e-b224-519ea8d3c18b)
+![ex 03 output pqm](https://github.com/sanjayofficial2005/Correlation_Regression/assets/148048602/6c83ae3e-9dfb-45ad-87c3-60a684798029)
+
+
 
 
 # Result
